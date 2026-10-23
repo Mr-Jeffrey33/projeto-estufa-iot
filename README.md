@@ -31,7 +31,7 @@ O objetivo deste projeto é simular o sistema de monitoramento e controle térmi
 
 ## 🔌 Esquema do Circuito
 
-![Circuito no Tinkercad](assets/circuito.png)
+![Circuito no Tinkercad]()
 
 ### Pinagem utilizada:
 | Componente | Pino no Arduino | Função |
@@ -45,7 +45,7 @@ O objetivo deste projeto é simular o sistema de monitoramento e controle térmi
 
 ## 💻 Código-Fonte
 
-O código completo do projeto está disponível na pasta [`src/estufa_iot.ino`](src/estufa_iot.ino).
+O código completo do projeto está disponível na pasta [`src/estufa_iot.ino`]().
 
 A lógica realiza a conversão da tensão lida no sensor TMP36 para graus Celsius e comanda as portas digitais com estruturas condicionais `if/else`.
 
@@ -62,8 +62,8 @@ A lógica realiza a conversão da tensão lida no sensor TMP36 para graus Celsiu
 ---
 
 ## 👤 Autor
-Mr Jeffrey
+Mr-Jeffrey
 
-Desenvolvido por **[Seu Nome Aqui]**  
-- LinkedIn: [Seu Perfil](https://www.linkedin.com)
-- GitHub: [@seu-usuario](https://github.com)
+Desenvolvido por **Jefferson**  
+- LinkedIn: [Jefferson Pereira Ribeiro Santos](https://www.linkedin.com/in/jefferson-pereira-ribeiro-santos-aba5a31b6/))
+- GitHub: [@mr-jeffrey33]([https://github.com](https://github.com/Mr-Jeffrey33))
